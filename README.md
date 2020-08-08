@@ -1,2 +1,2 @@
-# NewProject
-New project demo
+# Product Landing Page
+A product landing page type for Shure.
